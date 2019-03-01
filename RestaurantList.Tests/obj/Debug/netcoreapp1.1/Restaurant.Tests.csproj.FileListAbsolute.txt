@@ -1,0 +1,4 @@
+/Users/Guest/Desktop/Restaurant.Solution/Restaurant.Tests/bin/Debug/netcoreapp1.1/Restaurant.Tests.deps.json
+/Users/Guest/Desktop/Restaurant.Solution/Restaurant.Tests/bin/Debug/netcoreapp1.1/Restaurant.Tests.runtimeconfig.json
+/Users/Guest/Desktop/Restaurant.Solution/Restaurant.Tests/bin/Debug/netcoreapp1.1/Restaurant.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/Restaurant.Solution/Restaurant.Tests/obj/Debug/netcoreapp1.1/Restaurant.Tests.AssemblyInfo.cs
